@@ -38,6 +38,7 @@ long webview2distribution = 0
 boolean webview2checkx86 = false
 boolean webview2checkx64 = false
 string webview2url = "https://developer.microsoft.com/en-us/microsoft-edge/webview2/"
+integer highdpimode = 0
 end type
 global salesdemo salesdemo
 
